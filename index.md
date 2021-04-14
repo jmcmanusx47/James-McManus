@@ -1,4 +1,19 @@
-# Hello!
+# James McManus
+
+
+## Projects
+
+
+# Spaceship FPS
+Fight enemy ships that are raiding space stations around planets in our solar system. Fight them off with your ship's
+[Itch.io Link](https://mcmanusj.itch.io/mca4) and ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831848450639134770/unknown.png)
+
+# Bullet Hell Endless Scroller
+Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
+[Itch.io Link](https://bejules.itch.io/fp3) and ![Image](src)
+
+# FPS Phase-Shifting Mechanic Showcase Level
+[Itch.io Link]() and ![Image](src)
 
 
 ## Welcome to GitHub Pages
