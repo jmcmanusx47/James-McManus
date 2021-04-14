@@ -45,6 +45,16 @@ Level is initially in the blue phase, shown here ![Image](https://cdn.discordapp
 Player fires a shot from the same spot as the previous picture, switching the phase to orange, changing the geometry of the level. ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702667169890314/unknown.png)
 
 
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jmcmanusx47/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
