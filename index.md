@@ -47,13 +47,13 @@ Phase 2- Boss is charging at the player, dealing damage on contact.
 This level is a showcase of a mechanic I came up with based on a game design pattern a classmate had created. The [design pattern](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/442) talked about how the core shooting mechanics of most shooter games are relatively stale, and how designers need to change the way players utilize shooting to make shooting an interesting mechanic. I came up with the idea that whenever the player shoots, the world switches phases, denoted by Blue and Orange objects for each phase. Only one phase can be active at a time, so whenever the player shoots while blue objects are visible, the blue objects disappear and the orange objects appear. As the level progresses, more things become tied to phases, and the player has to think about their position and crosshair placement to 'defeat' all of the enemies (capsules) in the level. The level is a simple showcase of the mechanic, so the demo is focused more on that and lacks general polish.    
 
 
-Level from the side, showcasing the space filled by objects in both phases (Orange and Blue) in the beginning of the level : ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815703117911031859/unknown.png)
+Level from the side, showcasing the space filled by objects in both phases (Orange and Blue) in the beginning of the level. ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815703117911031859/unknown.png)
 
-Level is initially in the blue phase, shown here.
+Level is initially in the orange phase, shown here.
+![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702667169890314/unknown.png)
+
+Player fires a shot from the same spot as the previous picture, switching the phase to blue, changing the geometry of the level. 
 ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702624858144788/unknown.png)
 
-Player fires a shot from the same spot as the previous picture, switching the phase to orange, changing the geometry of the level. ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702667169890314/unknown.png)
 
-I plan to make a more polished and functional demo over the summer of 2021, and will update/add on to this section in the future. 
-
-
+I plan to make a more functional and polished demo over the summer of 2021, and will update/add on to this section in the future. 
