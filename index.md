@@ -1,23 +1,30 @@
 # James McManus
 
 
-## Projects
+
+# Projects
+## Spaceship FPS
+Fight enemy ships that are raiding space stations around planets in our solar system. Fight them off with your ship's fast-firing lasers and slow but powerful missiles, and defend the space stations.
+
+[Itch.io Link](https://mcmanusj.itch.io/mca4) ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831848450639134770/unknown.png)
 
 
-### Spaceship FPS
-Fight enemy ships that are raiding space stations around planets in our solar system. Fight them off with your ship's
 
-[Itch.io Link](https://mcmanusj.itch.io/mca4) and ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831848450639134770/unknown.png)
-
-### Bullet Hell Endless Scroller
+## Bullet Hell Endless Scroller
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
-[Itch.io Link](https://bejules.itch.io/fp3).
 
+[Itch.io Link](https://bejules.itch.io/fp3).
+A Screenshot from the first level of the game. Player is the green character in the bottom middle, and the camera slowly moves upwards as enemies spawn along constantly generating terrain. As the player defeats enemies, they gain experience and levels, which can be spent in the shop shown in the next picture.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831840201620979712/unknown.png)
 
+The shop is accessable by beating the boss at the end of a level or dying, and it contains permanent upgrades for the player, including new spells, movement speed, damage reduction, etc.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831847536821796874/unknown.png)
 
-### FPS Phase-Shifting Mechanic Showcase Level
+The first boss in the game, the Goblin King. The boss switches between two phases on a timer. In both phases, the boss runs back and forth along the top of the platform. In the first phase, the boss fires a projectile directly downwards periodically. After a certain amount of time, the boss will switch to the other phase. In this phase, if the player is in line-of-sight of the boss (i.e. directly below the boss), the boss will charge forward quickly. After a certain amount of time, the boss switches back to the original phase.
+
+
+
+## FPS Phase-Shifting Mechanic Showcase Level
 This level is a showcase of a mechanic that I came up with based on a game design pattern a classmate had created. It talked about how the core shooting mechanics of most shooter games are relatively stale, and how designers need to change the way players utilize shooting to make it interesting. I came up with the idea that whenever the player shoots, the world switches phases, denoted by Blue and Orange objects for each phase. Only one phase can be active at a time, so whenever the player shoots while blue objects are visible, the blue objects disappear and the orange objects appear. As the level progresses, more things become tied to phases, and the player has to think about their position and crosshair placement to 'defeat' all of the enemies (capsules) in the level. The level is a simple showcase of the mechanic, so the demo is focused more on that and lacks general polish.    
 
 [Itch.io Link](https://mcmanusj.itch.io/phasechange).
