@@ -1,19 +1,27 @@
-# James McManus
+
+
+# Intro
+I will put an intro section about myself and what this website is here later.
+
+[Resume](file:///C:/Users/David%20Inholee/Downloads/JamesM-Resume%20(1).pdf)
+[LinkedIn](https://www.linkedin.com/in/james-mcmanus-819a39206/)
 
 
 
 # Projects
 ## Spaceship FPS
-Fight enemy ships that are raiding space stations around planets in our solar system. Fight them off with your ship's fast-firing lasers and slow but powerful missiles, and defend the space stations.
+[Itch.io Link](https://mcmanusj.itch.io/mca4)
+Engage enemy ships that are raiding space stations around planets in our solar system. Fight them off with your ship's fast-firing lasers and slow but powerful missiles, and defend the space stations. This was an individual project created for my Game Programming class, and includes 
 
-[Itch.io Link](https://mcmanusj.itch.io/mca4) ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831848450639134770/unknown.png)
+ ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831848450639134770/unknown.png)
 
 
 
 ## Bullet Hell Endless Scroller
+[Itch.io Link](https://bejules.itch.io/fp3).
+
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
 
-[Itch.io Link](https://bejules.itch.io/fp3).
 A Screenshot from the first level of the game. Player is the green character in the bottom middle, and the camera slowly moves upwards as enemies spawn along constantly generating terrain. As the player defeats enemies, they gain experience and levels, which can be spent in the shop shown in the next picture.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831840201620979712/unknown.png)
 
@@ -25,9 +33,10 @@ The first boss in the game, the Goblin King. The boss switches between two phase
 
 
 ## FPS Phase-Shifting Mechanic Showcase Level
-This level is a showcase of a mechanic that I came up with based on a game design pattern a classmate had created. It talked about how the core shooting mechanics of most shooter games are relatively stale, and how designers need to change the way players utilize shooting to make it interesting. I came up with the idea that whenever the player shoots, the world switches phases, denoted by Blue and Orange objects for each phase. Only one phase can be active at a time, so whenever the player shoots while blue objects are visible, the blue objects disappear and the orange objects appear. As the level progresses, more things become tied to phases, and the player has to think about their position and crosshair placement to 'defeat' all of the enemies (capsules) in the level. The level is a simple showcase of the mechanic, so the demo is focused more on that and lacks general polish.    
-
 [Itch.io Link](https://mcmanusj.itch.io/phasechange).
+
+This level is a showcase of a mechanic that I came up with based on a game design pattern a classmate had created. The [design pattern](https://patternlanguageforgamedesign.com/PatternLibraryApp/PatternLibrary/442) talked about how the core shooting mechanics of most shooter games are relatively stale, and how designers need to change the way players utilize shooting to make it interesting. I came up with the idea that whenever the player shoots, the world switches phases, denoted by Blue and Orange objects for each phase. Only one phase can be active at a time, so whenever the player shoots while blue objects are visible, the blue objects disappear and the orange objects appear. As the level progresses, more things become tied to phases, and the player has to think about their position and crosshair placement to 'defeat' all of the enemies (capsules) in the level. The level is a simple showcase of the mechanic, so the demo is focused more on that and lacks general polish.    
+
 
 Level from the side, showcasing the space filled by objects in both phases (Orange and Blue) in the beginning of the level : ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815703117911031859/unknown.png)
 
