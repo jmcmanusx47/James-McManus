@@ -1,12 +1,8 @@
 # Intro
-Hi! I'm James McManus, a Computer Science and Game Development student at Northeastern University. This is my WIP portfolio, mostly for my game development work. I will be updating this website relatively frequently to showcase any new work I've created, or to better highlight my current work. My contact information is below and additional information is located at the top of my resume. Thanks for stopping by!
+Hi! I'm James McManus, a Computer Science and Game Development student at Northeastern University. This is my WIP portfolio, mostly for my game development and design work. I will be updating this website relatively frequently to showcase any new work I've created, or to better highlight my current work. My contact information is below and additional information is located at the top of my resume. Thanks for stopping by!
 
 ### Contact information
-mcmanus.j@northeastern.edu
-
-[Resume](James M Resume.pdf)
-
-[LinkedIn](https://www.linkedin.com/in/james-mcmanus-819a39206/)
+mcmanus.j@northeastern.edu | [Resume](James M Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/james-mcmanus-819a39206/)
 
 
 
@@ -25,7 +21,7 @@ Player firing upon an enemy ship near Mercury.
 Side note: you can probably tell from the pictures, but the planets are not quite in the right spot or the right size, but they are to scale relative to each other.
 
 
-## Bullet Hell Endless Scroller
+## Bullet Hell Endless Scroller (WIP)
 [Itch.io Link](https://bejules.itch.io/fp3).
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
@@ -53,7 +49,8 @@ This level is a showcase of a mechanic I came up with based on a game design pat
 
 Level from the side, showcasing the space filled by objects in both phases (Orange and Blue) in the beginning of the level : ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815703117911031859/unknown.png)
 
-Level is initially in the blue phase, shown here ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702624858144788/unknown.png)
+Level is initially in the blue phase, shown here.
+![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702624858144788/unknown.png)
 
 Player fires a shot from the same spot as the previous picture, switching the phase to orange, changing the geometry of the level. ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702667169890314/unknown.png)
 
