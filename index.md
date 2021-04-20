@@ -26,7 +26,7 @@ Side note: you can probably tell from the pictures, but the planets are not quit
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
 
-[Trailer](https://www.youtube.com/watch?v=6FER3ImtDfg).
+[Trailer](https://www.youtube.com/watch?v=6oil6JeNZLw).
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/834088040287699025/unknown.png)
 Ignore the 'Dragon Quest' at the end of the trailer, we still haven't decided on a name :)
 
