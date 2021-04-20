@@ -24,14 +24,15 @@ Side note: you can probably tell from the pictures, but the planets are not quit
 ## Bullet Hell Endless Scroller (WIP)
 [Itch.io Link](https://bejules.itch.io/fp3).
 
-Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
+Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. I edited the trailer from a teammates' playthrough of the game.
 
+Ignore the 'Dragon Quest' at the end of the trailer, we still haven't decided on a name :)
 [Trailer](https://www.youtube.com/watch?v=6oil6JeNZLw).
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/834088040287699025/unknown.png)
-Ignore the 'Dragon Quest' at the end of the trailer, we still haven't decided on a name :)
+
 
 A Screenshot from the first level of the game. Player is the green character in the bottom middle, and the camera slowly moves upwards as enemies spawn along constantly generating terrain. As the player defeats enemies, they gain experience and levels, which can be spent in the shop shown in the next picture.
-![Image](https://cdn.discordapp.com/attachments/475503547656568842/831840201620979712/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/834093820383592508/unknown.png)
 
 The shop is accessable by beating the boss at the end of a level or dying, and it contains permanent upgrades for the player, including new spells, movement speed, damage reduction, etc.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831847536821796874/unknown.png)
