@@ -26,6 +26,10 @@ Side note: you can probably tell from the pictures, but the planets are not quit
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. 
 
+[Trailer](https://www.youtube.com/watch?v=6FER3ImtDfg).
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/834088040287699025/unknown.png)
+Ignore the 'Dragon Quest' at the end, we still haven't decided on a name :)
+
 A Screenshot from the first level of the game. Player is the green character in the bottom middle, and the camera slowly moves upwards as enemies spawn along constantly generating terrain. As the player defeats enemies, they gain experience and levels, which can be spent in the shop shown in the next picture.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/831840201620979712/unknown.png)
 
