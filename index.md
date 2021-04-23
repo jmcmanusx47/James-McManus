@@ -22,11 +22,12 @@ Side note: you can probably tell from the pictures, but the planets are not quit
 
 
 ## Bullet Hell Endless Scroller (WIP)
-[Itch.io Link](https://bejules.itch.io/fp3).
+[Itch.io Link](https://bejules.itch.io/cool-game).
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. I edited the trailer from a teammates' playthrough of the game.
 
 Ignore the 'Dragon Quest' at the end of the trailer, we still haven't decided on a name :)
+
 [Trailer](https://www.youtube.com/watch?v=6oil6JeNZLw).
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/834088040287699025/unknown.png)
 
