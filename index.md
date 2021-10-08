@@ -21,7 +21,7 @@ Player firing upon an enemy ship near Mercury.
 Side note: you can probably tell from the pictures, but the planets are not quite in the right spot or the right size, but they are to scale relative to each other.
 
 
-## Bullet Hell Endless Scroller (WIP)
+## Bullet Hell Endless Scroller 
 [Itch.io Link](https://bejules.itch.io/cool-game).
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. I edited the trailer from a teammates' playthrough of the game.
@@ -46,6 +46,35 @@ Phase 1- Boss fires projectiles downwards.
 Phase 2- Boss is charging at the player, dealing damage on contact.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/832029485993558026/unknown.png)
 
+The second boss in the game, the Skeleton King. The Boss similarly switched between phases, this time switching between firing tracking projectiles (which were introduced in the same level as the boss), high damage fireball spells, and summoning skeleton minions that charge and attack you in melee. 
+
+Phase 2 - Boss fires slow-moving, high damage fireball projectiles towards the player.
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/895912992758202388/unknown.png)
+
+Phase 3 - Boss stays in place, stops firing projectiles, and spawns skeleton minions that attack you.
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/895914831390052352/unknown.png) 
+
+Last but very much not least, we have the final boss, the Dragon. It is a 4 (and a half) phase boss that tests the skills that the player has cultivated over their journey. It is highly mobile, and dishes out a lot of damage very quickly to underprepared wizards. Players that have invested many of their skill points into movement and defensive spells will find the fight to be easier than those who underestimated the dragon. It starts with a simple move-and-shoot phase, but quickly picks up the pace with a wide spread of rapidly-firing fireballs that force the player to duck between the gaps.
+
+Phase 2 - Dragon fires a rapid-fire spread of fireballs.
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/895915701972377630/unknown.png)
+
+
+Immediately following this phase, the dragon unleashes a repeated shotgun-blast volley of fireballs, constantly turning towards the player. This is where movement speed is especially helpful for the player to invest their skill points into.
+
+Phase 3 - Dragon fires targeted shotgun blast of fireballs towards the player.
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/895916135512412250/unknown.png)
+
+
+After this, the dragon takes to the skies, raining firey death from above. A constant stream of fireballs shot directly towards the player again encourages movement upgrades for the player, but is entirely avoidable without any if the player is good enough at dodging. The dragon swoops low in the middle, allowing for counterattack as well.
+
+Phase 4 - Dragon takes off and fires an arial barrage of fire towards the player.
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/895916276801765376/unknown.png)
+
+
+Greatly exhausting its energy from flying and attacking simultaneously, the dragon lands and once again moves around the stage, but barely fires off any shots, giving the player a chance to deal as much damage as possible in this vulnerability window. Then, the fight repeats until a victor emerges. 
+
+
 
 ## FPS Phase-Shifting Mechanic Showcase Level
 [Itch.io Link](https://mcmanusj.itch.io/phasechange).
@@ -62,4 +91,3 @@ Player fires a shot from the same spot as the previous picture, switching the ph
 ![Image](https://cdn.discordapp.com/attachments/803364518818349116/815702624858144788/unknown.png)
 
 
-I plan to make a more functional and polished demo over the summer of 2021, and will update/add on to this section in the future. 
