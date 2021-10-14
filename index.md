@@ -4,7 +4,7 @@
 Hi! I'm James McManus, a Computer Science and Game Development student at Northeastern University. This is my WIP portfolio, mostly for my game development and design work. I will be updating this website relatively frequently to showcase any new work I've created, or to better highlight my current work. My contact information is below and additional information is located at the top of my resume. Thanks for stopping by!
 
 ### Contact information
-mcmanus.j@northeastern.edu | [Resume](James M Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/james-mcmanus-819a39206/)
+mcmanus.j@northeastern.edu | [Resume](James McManus Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/james-mcmanus-819a39206/)
 
 
 
