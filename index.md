@@ -10,6 +10,22 @@ mcmanus.j@northeastern.edu | [Resume](James McManus Resume.pdf) | [LinkedIn](htt
 
 
 # Projects
+
+## Yan's Judgement
+[Itch.io Link](https://mcmanusj.itch.io/yans-judgement)
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/938530851925397564/CreditMenu.png)
+
+Yan, a shepherd of souls, finds a soul that missed the ferry for judgement, and must guide them across Heaven and Hell and through the entities that reside there to The Gate for their final judgement. Created with a team of 8 during the Boston Global Game Jam 2022. I was one of two programmers on the team, so it was a little tough getting everything into the game in the 48 hours we had, but it was a lot of fun. I think the music and art team knocked it out of the park, and I'm really happy with how the game turned out!
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/938530904698130542/HellA_mockup.png)
+Mockup of one of the Hell levels in the game, shows character, enemy placements, and environment structure.
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/938530924541399040/heavenB_mockup.png)
+Mockup of one of the Heaven levels in the game, shows character and their spawn, enemy placements and types, and environment structure.
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/938532198502502470/unknown.png)
+Example of early dialogue during gameplay, which uses the dialogue system I coded to make conversations and choices.
+
 ## Spaceship FPS
 [Itch.io Link](https://mcmanusj.itch.io/mca4)
 
@@ -20,7 +36,7 @@ Engage enemy ships that are raiding space stations around planets in our solar s
 Player firing upon an enemy ship near Mercury.
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/832025472355139621/unknown.png)
 
-Side note: you can probably tell from the pictures, but the planets are not quite in the right spot or the right size, but they are to scale relative to each other.
+Side note: you can probably tell from the pictures, but the planets are not quite in the right spot or the right size, but they are to scale relative to each other (Jupiter is very far away).
 
 
 ## Bullet Hell Endless Scroller 
