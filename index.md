@@ -58,7 +58,7 @@ Player firing upon an enemy ship near Mercury.
 Side note: you can probably tell from the pictures, but the planets are not quite in the right spot or the right size, but they are to scale relative to each other (Jupiter is very far away).
 
 
-## Bullet Hell Endless Scroller 
+## Cool Game (Bullet Hell Endless Scroller) 
 [Itch.io Link](https://bejules.itch.io/cool-game).
 
 Group project created for my Game Programming class. Everything except assets and animations were written and made from scratch. I edited the trailer from a teammates' playthrough of the game.
