@@ -24,7 +24,26 @@ Mockup of one of the Hell levels in the game, shows character, enemy placements,
 Mockup of one of the Heaven levels in the game, shows character and their spawn, enemy placements and types, and environment structure.
 
 ![Image](https://cdn.discordapp.com/attachments/475503547656568842/938532198502502470/unknown.png)
-Example of early dialogue during gameplay, which uses the dialogue system I coded to make conversations and choices.
+Example of early dialogue during gameplay, which uses the dialogue system I coded based on a tutorial to make conversations and choices.
+
+## Left For Bread
+[Itch.io Link](https://atbaptista.itch.io/left-for-bread)
+![Image](https://cdn.discordapp.com/attachments/950501025310195815/952622383431303168/unknown.png)
+
+Bartholomew the Fourth has been abandoned by his mommy at the checkout counter. Will he wait the 23 seconds for his mom to come back (nudge,nudge, wink wink) or journey through the unknown aisles of the grocery store to find her? Can you find the secret ending? Created for the McGameJam 2022 as a part of a team of 4, with music by Luka Berman--[check out some of his work](https://soundcloud.com/hairband-truman-623680010). In line with Yan's judgement, I was again one of two programmers tasked with making the game in a short 48 hours, so it's pretty small in scope. It's a simple game but it was fun leaning into the silly theme, really enjoyed working on this and super proud of what our small team created in the time we had. 
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/955296788217200691/unknown.png)
+An image taken moments before disaster-- Bartholomew has been momentarily left but there is no one in front of him in line! Part of the opening cutscene I implemented.
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/955296963111305216/unknown.png)
+Bartholomew is stunned after slipping on a banana, all while an angry watermelon bounces towards him and a store customer patrolls the platform above him.
+
+![Image](https://cdn.discordapp.com/attachments/475503547656568842/955297097601679430/unknown.png)
+A bunch of angry melons fell on Bartholomew's head during the filming of this segment. No melons nor Bartholomews were harmed in the making of this game.
+
+
+
+
 
 ## Spaceship FPS
 [Itch.io Link](https://mcmanusj.itch.io/mca4)
